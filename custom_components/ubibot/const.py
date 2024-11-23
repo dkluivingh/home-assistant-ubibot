@@ -23,7 +23,7 @@ SENSOR_TYPES = {
     },
     "lux": {
         "class": DEVICE_CLASS_ILLUMINANCE,
-        "unit": "lux",
+        "unit": "lx",
         "icon": "mdi:lightbulb-on-outline",
         "field": "field3",
     },

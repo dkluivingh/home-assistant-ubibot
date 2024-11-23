@@ -10,6 +10,8 @@ Install using HACS
 
 Configure as a sensor in HA YAML configuration.yaml
 
+api_key: = account key not sensor api key
+
 ```
 sensor:
   platform: ubibot

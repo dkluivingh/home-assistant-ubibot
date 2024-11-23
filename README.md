@@ -35,7 +35,7 @@ Store secrets in secrets.yaml
 
 ```
 ubibot_apikey: "YOUR_API_KEY" 
-ubibot_channel_number: "YOUR_CHANNEL_NUMBER"
+ubibot_channel_number_1: "YOUR_CHANNEL_NUMBER"
 ```
 
 ```
